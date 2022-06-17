@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "apnGCV9ZFFeOEpdWh7RzSNQybSCJedcZu4fw/uPjls6KR1DAaCJeETtNleiO0+S1nxLolBtjLBwNGBeVaBmqmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tymon\\Projekty\\oglondanko\\src\\Oglondanko.Infrastructure\\Oglondanko.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tymon\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Tymon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

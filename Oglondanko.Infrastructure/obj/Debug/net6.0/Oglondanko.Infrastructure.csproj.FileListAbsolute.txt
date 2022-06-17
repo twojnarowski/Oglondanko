@@ -1,0 +1,15 @@
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\bin\Debug\net6.0\Oglondanko.Infrastructure.deps.json
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\bin\Debug\net6.0\Oglondanko.Infrastructure.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\bin\Debug\net6.0\Oglondanko.Infrastructure.pdb
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\bin\Debug\net6.0\Oglondanko.Core.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\bin\Debug\net6.0\Oglondanko.Core.pdb
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.AssemblyInfo.cs
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.csproj.CopyComplete
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\refint\Oglondanko.Infrastructure.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\Oglondanko.Infrastructure.pdb
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Infrastructure\obj\Debug\net6.0\ref\Oglondanko.Infrastructure.dll

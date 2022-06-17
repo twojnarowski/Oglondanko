@@ -1,0 +1,12 @@
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\bin\Debug\net6.0\Oglondanko.Core.deps.json
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\bin\Debug\net6.0\Oglondanko.Core.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\bin\Debug\net6.0\Oglondanko.Core.pdb
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.csproj.AssemblyReference.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.AssemblyInfoInputs.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.AssemblyInfo.cs
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\refint\Oglondanko.Core.dll
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\Oglondanko.Core.pdb
+C:\Users\Tymon\Projekty\oglondanko\src\Oglondanko.Core\obj\Debug\net6.0\ref\Oglondanko.Core.dll
